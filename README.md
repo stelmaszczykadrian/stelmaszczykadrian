@@ -2,6 +2,8 @@
 
 ![Codewars](https://www.codewars.com/users/biba1991/badges/large)
 
+<br><br>
+
 ## :sparkles: About me
 Hi, I am Adrian. I live in the charming town of Zambrów, near Bialystok. I have many interests, including **bodybuilding** 🏋️‍♂, **mixed martial arts** 🥊 and **world travel** ✈️. **The discipline and determination required to succeed in both bodybuilding and martial arts have taught me tenacity and the ability to overcome difficulties.🤩**
 
@@ -12,6 +14,7 @@ I am genuinely fascinated by the art of programming 💻 and its potential to tr
 
 **🌱 I’m currently learning in the Full Stack Developer course organized by Codecool programming school, where I develop my technical and soft skills.**
 
+<br><br>
 ## :star: Technology stack
 <div>
     <code><img align="left" alt="Java" width="50px"src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></code>
@@ -30,7 +33,7 @@ I am genuinely fascinated by the art of programming 💻 and its potential to tr
     <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
 </div>
 
-
+<br><br>
 ## :mailbox: Contact and socials
 <a href="mailto:stelmaszczykadrian@gmail.com">
   <img align="left" alt="email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
