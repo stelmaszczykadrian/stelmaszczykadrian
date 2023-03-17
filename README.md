@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codewars](https://www.codewars.com/users/biba1991/badges/large)
+![Codewars](https://www.codewars.com/users/stelmaszczykadrian/badges/large)
 
 <br><br>
 
