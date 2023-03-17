@@ -1,18 +1,17 @@
 ### Hi there 👋
 
 ![Codewars](https://www.codewars.com/users/stelmaszczykadrian/badges/large)
-
 <br><br>
 
 ## :sparkles: About me
-Hi, I am Adrian. I live in the charming town of Zambrów, near Bialystok. I have many interests, including **bodybuilding** 🏋️‍♂, **mixed martial arts** 🥊 and **world travel** ✈️. **The discipline and determination required to succeed in both bodybuilding and martial arts have taught me tenacity and the ability to overcome difficulties.🤩**
+Hi, I am Adrian. I live in the charming town of Zambrów, near Białystok,and have many interests, including **bodybuilding** 🏋️‍♂, **mixed martial arts** 🥊 and **world travel** ✈️. **The discipline and determination required to succeed in both bodybuilding and martial arts have taught me tenacity and the ability to overcome difficulties.🤩**
 
-One of my dreams is to visit every continent 🌍 that our beautiful planet has to offer. I am confident that working in programming 💻 will allow me to achieve this goal. The flexibility of working in programming means that I can work remotely or abroad, which will allow me to explore new horizons and earn a living at the same time.🙌🏼
+One of my dreams is to visit every continent on our beautiful planet 🌍, and I am confident that working in programming 💻 will allow me to achieve this goal. The flexibility of working in programming means that I can work remotely or abroad, which will allow me to explore new horizons and earn a living at the same time.🙌🏼
 
-I am genuinely fascinated by the art of programming 💻 and its potential to transform the world. My curiosity has led me to explore various programming projects, and I am particularly interested in developing applications and websites. I believe that programming is one of the most exciting and dynamic fields of endeavor, offering endless opportunities for innovation and creativity 🚀.
+I am genuinely fascinated by the art of programming 💻 and its potential to transform the world. My curiosity has led me to explore various programming projects, and I am particularly interested in developing applications and websites, as I believe that programming is one of the most exciting and dynamic fields of endeavor, offering endless opportunities for innovation and creativity🚀.
 
 
-**🌱 I’m currently learning in the Full Stack Developer course organized by Codecool programming school, where I develop my technical and soft skills.**
+**🌱 Currently, I am learning in the Full Stack Developer course organized by Codecool programming school, where I am developing my technical and soft skills.**
 
 <br><br>
 ## :star: Technology stack
