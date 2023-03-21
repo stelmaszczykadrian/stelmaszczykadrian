@@ -29,7 +29,6 @@ I am genuinely fascinated by the art of programming 💻 and its potential to tr
 <img align="left"alt="Java"width="100px"src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png" />
 <img alt="Java"width="50px"src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" /><br />
 <img align="left"alt="Java"width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left"alt="Java"width="50px"src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" />    
 </div>
 
 <br><br>
