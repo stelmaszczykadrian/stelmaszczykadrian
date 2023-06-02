@@ -10,8 +10,8 @@ One of my dreams is to visit every continent on our beautiful planet 🌍, and I
 
 I am genuinely fascinated by the art of programming 💻 and its potential to transform the world. My curiosity has led me to explore various programming projects, and I am particularly interested in developing applications and websites, as I believe that programming is one of the most exciting and dynamic fields of endeavor, offering endless opportunities for innovation and creativity🚀.
 
-
-**🌱 Currently, I am learning in the Full Stack Developer course organized by Codecool programming school, where I am developing my technical and soft skills.**
+<br><br>
+***🔎I'm looking for a job as a junior engineer with the opportunity to grow and the chance to learn even more new things!***
 
 <br><br>
 ## :star: Technology stack
