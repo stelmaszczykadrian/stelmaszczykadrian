@@ -4,14 +4,14 @@
 <br><br>
 
 ## :sparkles: About me
-Hi, I am Adrian. I live in the charming town of Zambrów, near Białystok,and have many interests, including **bodybuilding** 🏋️‍♂, **mixed martial arts** 🥊 and **world travel** ✈️. **The discipline and determination required to succeed in both bodybuilding and martial arts have taught me tenacity and the ability to overcome difficulties.🤩**
 
-One of my dreams is to visit every continent on our beautiful planet 🌍, and I am confident that working in programming 💻 will allow me to achieve this goal. The flexibility of working in programming means that I can work remotely or abroad, which will allow me to explore new horizons and earn a living at the same time.🙌🏼
-
-I am genuinely fascinated by the art of programming 💻 and its potential to transform the world. My curiosity has led me to explore various programming projects, and I am particularly interested in developing applications and websites, as I believe that programming is one of the most exciting and dynamic fields of endeavor, offering endless opportunities for innovation and creativity🚀.
-
+👨‍💻 I am Adrian, a junior developer with a passion for **programming**, living in the charming town of Zambrów near Białystok. Fascinated by the transformative power of programming 💻, I enjoy developing applications and websites. Programming is an exciting and dynamic field that allows for endless innovation and creativity
 <br><br>
-***🔎I'm looking for a job as a junior engineer with the opportunity to grow and the chance to learn even more new things!***
+💼 I am currently seeking a **job that offers growth opportunities and the chance to learn new skills**. I am highly motivated and ready to take on new challenges. With my energy and dedication, I strive for excellence in every project I undertake.
+<br><br>
+🌍 In addition to my programming skills, I have a strong interest in **bodybuilding** 💪, **mixed martial arts** 🥋, and **world travel** ✈️. **The discipline and determination required in these pursuits have instilled in me valuable qualities such as tenacity and the ability to overcome obstacles.**
+<br><br>
+🌟 If you are looking for a motivated and ambitious junior engineer who is eager to learn from experienced professionals, I invite you to check out my profile on LinkedIn. There, you will find more information about my experience and skills.
 
 <br><br>
 ## :star: Technology stack
@@ -36,6 +36,11 @@ I am genuinely fascinated by the art of programming 💻 and its potential to tr
 <a href="mailto:stelmaszczykadrian@gmail.com">
   <img align="left" alt="email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
-<a href="https://www.linkedin.com/in/adrian-stelmaszczyk-0b2b87160/">
-  <img align="left" alt="LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
-</a>   
+<a href="https://linkedin.com/in/stelmaszczykadrian">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+</a>
+ 
+
+
+
+
